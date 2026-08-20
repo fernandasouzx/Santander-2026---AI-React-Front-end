@@ -40,7 +40,7 @@ O objetivo do bootcamp é aprender a criar as interfaces que as pessoas usam tod
 
 ## Projetos deste repositório
 
-Cada pasta é um experimento prático de um módulo diferente — principalmente do módulo de **empacotadores e compiladores**, onde o mesmo app React é montado com ferramentas distintas para comparar as abordagens.
+Cada pasta é um experimento prático de um módulo diferente, principalmente do módulo de **empacotadores e compiladores**, onde o mesmo app React é montado com ferramentas distintas para comparar as abordagens.
 
 ### [`react-babel-webpack-example/`](react-babel-webpack-example/)
 App React configurado **manualmente** com Babel + Webpack, sem nenhum starter pronto. Serve para entender o que ferramentas como o Vite fazem por baixo dos panos.
@@ -96,23 +96,9 @@ npm run dev
 
 ---
 
-## Progresso
-
-- [x] Conhecendo o React — *certificado emitido*
-- [x] Preparando o Ambiente de Desenvolvimento React — *certificado emitido*
-- [ ] Empacotadores e Compiladores do React
-- [ ] Criando Aplicações React com Create React App
-- [ ] Criando Aplicações React com Vite
-- [ ] Desafio de código: Conhecendo os Pilares do Frontend
-- [ ] Entendendo Componentes em React do Zero
-- [ ] Componentes em React na Prática
-- [ ] Projeto Final: Educador Financeiro Inteligente
-
----
-
 ## Projeto final
 
-**Educador Financeiro Inteligente** — aplicação React que integra a **API Gemini** para gerar orientações financeiras personalizadas, aplicando tudo o que foi visto no bootcamp: componentização, hooks, theming, responsividade e IA.
+**Educador Financeiro Inteligente**: aplicação React que integra a **API Gemini** para gerar orientações financeiras personalizadas, aplicando tudo o que foi visto no bootcamp: componentização, hooks, theming, responsividade e IA.
 
 ---
 
