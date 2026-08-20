@@ -105,5 +105,3 @@ npm run dev
 ## Autora
 
 **Fernanda Souza**
-
-# Santander 2026 AI-React-Front-end
