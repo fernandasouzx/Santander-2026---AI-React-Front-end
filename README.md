@@ -1,4 +1,4 @@
-# Santander 2026 — AI React Front-end
+# Santander 2026 - AI React Front-end
 
 Repositório com os estudos, exercícios e projetos do bootcamp **Santander 2026 - AI React Front-end** da [DIO](https://www.dio.me).
 
@@ -106,5 +106,4 @@ npm run dev
 
 **Fernanda Souza**
 
-Feito com 💜 durante o bootcamp Santander 2026 - AI React Front-end da DIO.
-# Santander-2026---AI-React-Front-end
+# Santander 2026 AI-React-Front-end
