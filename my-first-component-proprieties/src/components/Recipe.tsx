@@ -1,26 +1,11 @@
-interface Props{
-    imageSrc: string;
-    coffee: {
-        name: string;
-        description: string;
-        preparationTime: number;
-    }
-}
+import type { CoffeeProps } from "../interfaces/coffee"
+import { Coffee } from "./Coffee"
 
-export function Recipe({imageSrc, coffee}:Props) {
-    return (
-        <>
-            <img
-                src={imageSrc}
-                alt="coffee.name"
-                width={400}
-            />
-            <h2 className='recipe-title'>{coffee.name}</h2>
-            <p className='recipe-description'>{coffee.description}</p>
-            <p className='recipe-description'> 
-                <b>Tempo de Preparo: </b>
-                {coffee.preparationTime} min
-            </p>
-        </>
-    )
+export function Recipe(props: CoffeeProps){
+    return(
+        <div className="card">
+            <Coffee {...props} />
+            <button className="button">Ver receita</button>
+        </div>
+    );
 }
