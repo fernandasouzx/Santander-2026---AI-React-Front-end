@@ -5,8 +5,9 @@ import { MarkerImage } from './components/MarkerImage'
 function App() {
   return (
    <>
-      <List/>
       <MarkerImage/>
+      <List/>
+      
   </>
   )
 }

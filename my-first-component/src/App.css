@@ -4,3 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+
+#profile-component img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
